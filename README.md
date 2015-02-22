@@ -2,7 +2,7 @@
 
 Below is a list of steps executed when code is run:
 
-1. Item 1 Loading all data (absolute addresses used)
+1. Loading all data (absolute addresses used)
 2. processing of test data - merging test data with subject labels
 3. processing of test data - merging already processed data from previous step with activity labels
 4. creating tidy test data set - merging two preprocessed data sets
@@ -12,9 +12,6 @@ Below is a list of steps executed when code is run:
 8. creating tidy data for both sets - merging two preprocessed data sets (test + train) and selecting only mean and standard variation
 9. creating tidy data as mean value of selected variables per Subject and Activity
 
-1. Item 1
-2. Item 2
-3. Item 3
 
 # Code book
 
