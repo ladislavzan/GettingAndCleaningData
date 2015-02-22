@@ -1,6 +1,7 @@
 # Computation procedue
 
 Below is a list of steps executed when code is run:
+
 1. Item 1 Loading all data (absolute addresses used)
 2. processing of test data - merging test data with subject labels
 3. processing of test data - merging already processed data from previous step with activity labels
